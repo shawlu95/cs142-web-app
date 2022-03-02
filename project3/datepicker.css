@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #89939C;
+  height: 30px;
+  width: 50px;
+  text-align: center;
+}
+
+#wrongMonth {
+	color: #D3D3D3;
+}

@@ -1,0 +1,12 @@
+/*
+CSS for the CS142 project #4 Problem #2 states component
+
+Since CSS uses a global name space for classes we should use names starting with
+cs142-states- here.
+*/
+
+.search {
+	margin-left: 15%;
+	font-size: 22px;
+	color: grey;
+}

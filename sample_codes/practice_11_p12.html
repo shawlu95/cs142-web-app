@@ -1,0 +1,42 @@
+<!DOCTYPE html> <html>
+<head>
+<title>Positioning</title>
+  <style type="text/css">
+    .box {
+      /* ATTENTION */
+      display: inline-block;
+      height: 48px;
+      width: 48px;
+      border: 1px solid red;
+
+      /* ATTENTION */
+      position: relative;
+    }
+    #A {
+      top: 50px;
+      position: absolute;
+    }
+    #B {
+      position: relative;
+    }
+    #C {
+      position: relative;
+    }
+    #D {
+      position: relative;
+    }
+    .container {
+      display: block;
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box" id="A">A</div>
+    <div class="box" id="B">B</div>
+    <div class="box" id="C">C</div>
+    <div class="box" id="D">D</div>
+  </div>
+</body>
+</html>

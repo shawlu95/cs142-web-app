@@ -1,0 +1,10 @@
+div {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  border-left-style: dotted;
+  border-left-width: 5px;
+  margin-top: 10px;
+  margin-right: 20px;
+  display: inline-block;
+}

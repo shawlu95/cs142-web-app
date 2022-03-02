@@ -1,0 +1,148 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name:
+Story points:
+Brief description to see the story in action:
+
+Total Story Points:
+
+Marketing Video URL (ensure permissions are set to public viewing):
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum?
+
+Any special instructions for Grading (should be easy to run app from new machine):
+
+
+************************************ Example *******************
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  5 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled Activity on the toolbar and view the 10 most recent activities of the
+* current user.
+*
+* Total Story Points: 4
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+*******************************************************
+1
+
+* Story number and name:  1 - Extend user profile detail with usage
+* Story points:  3
+* Brief description to see the story in action:
+* Select user on the user list to see their most recent photo and most commented photos (ties handled) on the right. Click photo thumbnail to view its detail
+*
+* Total Story Points: 3
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+*******************************************************
+2
+
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  2 - Activity feed
+* Story points:  4
+* Brief description to see the story in action:
+* Click ACTIVITY on the top bar to view most recent 5 activities. Comment/Upload/Login/Logout on another browser, and refresh activity list to pull updates from the databse
+*
+* Total Story Points: 4
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+*******************************************************
+3
+
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  7 - Favorite lists of photos for users
+* Story points:  6
+* Brief description to see the story in action:
+* Click the shopping cart on user's photos /photos/user_id and the button is greyed out. Click FAVORITES on the top bar to view list of favorite photos. Click photo thumbnail to open modal view. Click trash bin button to remove photo from favorites.
+
+*
+* Total Story Points: 6
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+*******************************************************
+4
+
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  2 - @mentions in comments
+* Story points:  6
+* Brief description to see the story in action:
+* On any photo of the page /photos/user_id and the button is greyed out, enter @ to mention user. Submit comment to view mentioned users appended to end of comments. Click user on the user list to see detail page, the mentioned photos are displayed in a list. Click photo owner's name to navigate to owner's photos. Or click the thumbnail to view detail of the specific photo.
+
+*
+* Total Story Points: 6
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine):
+
+Mention is only avaialble in the photos/user_id route, not in the photo/photo_id route.
+
+*******************************************************
+5
+
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  5 - Deleting Comments, Photos, and Users
+* Story points:  4
+* Brief description to see the story in action:
+* Click DELETE button next to a comment (of the logged-in user) to remove comment. Click DELETE button under each photo (of the logged-in user) to remove photo. Click DELETE on the top bar and confirm in dialog box to delete entire acount, along with all associated comments, photos, and activities.
+
+*
+* Total Story Points: 4
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine): None
+
+*******************************************************
+6
+
+* As an example for if you did only story 5 your file would look like:
+*
+* Story number and name:  6 - Photo like votes
+* Story points:  4
+* Brief description to see the story in action:
+* Click the heart shape button next to each photo to like a photo (click again to unlike). Navigate to user's profile page to look at most liked photo.
+
+*
+* Total Story Points: 4
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/MMAca62QCmA
+*
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+*
+* Instructions for Grading (should be easy to run app from new machine):
